@@ -12,7 +12,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo_bucket" {
- bucket = "my-training-riadekemi-bucket-12345"
+ bucket = "my-training-riademerrybyeemi-bucket-12345"
 }
 
 output "bucket_name" {
